@@ -17,7 +17,7 @@ There are also styles available for inverted (white) icons, made ready with one 
  ```
 
 ## How to use
-1. Copy the Octions font directory into your project.
+1. Copy the font directory into your project.
 2. Copy font-icons.css into your project.
 3. Open your project's font-icons.css and edit the font url to ensure it points to the right place.
 4. In the &lt;head&gt; of your html, reference the location to your font-icons.css.
