@@ -1,41 +1,34 @@
+## Bootstrap font icons
 
-![Octicons](/yuanyan/Octicons/raw/master/docs/assets/octicons.png)
-
-## Octicons
-
-The github icon font Octicons for [Twitter Bootstrap](http://twitter.github.com/bootstrap)
+The icon font for [Twitter Bootstrap](http://twitter.github.com/bootstrap)
 
 ## Examples
 
 Bootstrap uses an &lt;i&gt; tag for all icons, but they have no case class&mdash;only a shared prefix. To use, place the following code just about anywhere:
 
  ```html
-	<i class="icon-search"></i>
+	<i class="icon-download"></i>
  ```
  
 There are also styles available for inverted (white) icons, made ready with one extra class:
 
  ```html
-	<i class="icon-search icon-white"></i>
+	<i class="icon-download icon-white"></i>
  ```
 
 ## How to use
 1. Copy the Octions font directory into your project.
-2. Copy octicons.css into your project.
-3. Open your project's octicons.css and edit the font url to ensure it points to the right place.
-4. In the &lt;head&gt; of your html, reference the location to your octicons.css.
+2. Copy font-icons.css into your project.
+3. Open your project's font-icons.css and edit the font url to ensure it points to the right place.
+4. In the &lt;head&gt; of your html, reference the location to your font-icons.css.
  ```html
     <link rel="stylesheet" href="bootstrap.css">
 	
-    <link rel="stylesheet" href="octicons.css">
+    <link rel="stylesheet" href="font-icons.css">
  ```
 5. Check out the examples to start using Octions!
 
 ## License
-
-[Github Octicons](https://github.com/styleguide/css/7.0)
-
-Copyright (c) 2012 GitHub Inc.
 
 The MIT License
 
