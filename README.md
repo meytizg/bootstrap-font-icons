@@ -26,7 +26,7 @@ There are also styles available for inverted (white) icons, made ready with one 
 	
     <link rel="stylesheet" href="font-icons.css">
  ```
-5. Check out the examples to start using Octions!
+5. Check out the examples to start using font icons!
 
 ## License
 
